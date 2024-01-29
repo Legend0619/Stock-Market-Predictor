@@ -8,7 +8,7 @@ Python version above 3.3 is recommended.
 
 <ins>**1. Downloading the repository:**</ins>
 
-Start by cloning the repository with `git clone https://github.com/Rohrschachh/Stock-Market-Predictor.git`.
+Start by cloning the repository with `git clone https://github.com/legend0619/Stock-Market-Predictor.git`.
 
 <ins>**2. Configuring the dependencies:**</ins>
 
@@ -17,7 +17,7 @@ Start by cloning the repository with `git clone https://github.com/Rohrschachh/S
 1. Run the [SetupWindows.bat](https://github.com/Rohrschachh/Stock-Market-Predictor/blob/master/Scripts/SetupWindows.bat) file found in `Scripts` folder. This will download the required packages and create a virtual environment for the project if they are not present yet.
 
 2. One prerequisite is Python version above 3.3 should be installed.[Download](https://www.python.org/downloads)
-3. After installation, run the [SetupWindows.bat](https://github.com/Rohrschachh/Stock-Market-Predictor/blob/master/Scripts/SetupWindows.bat) file again. If Python is installed properly, it will create a virtual environment and download the required packages. (This may take a longer amount of time)
+3. After installation, run the [SetupWindows.bat](https://github.com/legend0619/Stock-Market-Predictor/blob/master/Scripts/SetupWindows.bat) file again. If Python is installed properly, it will create a virtual environment and download the required packages. (This may take a longer amount of time)
 
 4. After successfully install you can choose to run the server or Run the server manually after activating virtual environment and `cd server` and run command `python Server.py` in root folder of the server [http://localhost:5000](http://localhost:5000)
 
